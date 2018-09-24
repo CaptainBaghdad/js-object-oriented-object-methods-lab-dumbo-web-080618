@@ -14,4 +14,11 @@ class BoardMember{
     return 'You can do that!';
   }
   
+  doCharity(){
+    return "I like to help people.";
+  }
+  
+  
+  
+  
 }
